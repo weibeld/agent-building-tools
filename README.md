@@ -19,6 +19,10 @@
 | **[Any-Agent](https://mozilla-ai.github.io/any-agent/)** | Mozilla | Interface to use and evaluate different agent frameworks. | Python | ✅ | [mozilla-ai/any-agent](https://github.com/mozilla-ai/any-agent) (⭐️ ~1.0k) | 🧰 SDK | [Apr 2025](https://github.com/mozilla-ai/any-agent/releases) |
 | **[Microsoft 365 Agents SDK](https://learn.microsoft.com/en-us/microsoft-365/agents-sdk/)** | Microsoft | SDK for building agents for M365, Teams, and Copilot Studio. | Python, C# (.NET), TypeScript, JavaScript | ✅ | [microsoft/Agents](https://github.com/microsoft/Agents) (⭐️ ~600) | 🧰 SDK | [Nov 2024](https://github.com/microsoft/Agents/releases) |
 
+- https://learn.microsoft.com/en-us/agent-framework/
+- https://learn.microsoft.com/en-us/semantic-kernel/overview/
+- https://www.llamaindex.ai/llamaindex
+
 ⬆️ [Back to Contents](#contents)
 
 ## Resources
