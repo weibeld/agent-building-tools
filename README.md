@@ -1,11 +1,12 @@
 # Agent SDKs and Resources
 
-![Last Updated](https://img.shields.io/date/1763547952?label=✅%20Last%20AI%20Update&color=success)
+![Last Updated](https://img.shields.io/date/1763553661?label=✅%20Last%20AI%20Update&color=success)
 
 ## Contents
 
 1. **[SDKs](#sdks)**
-2. **[Resources](#resources)**
+2. **[Builder Platforms](#builder-platforms)**
+3. **[Resources](#resources)**
 
 ## SDKs
 
@@ -22,6 +23,13 @@
 - https://learn.microsoft.com/en-us/agent-framework/
 - https://learn.microsoft.com/en-us/semantic-kernel/overview/
 - https://www.llamaindex.ai/llamaindex
+
+⬆️ [Back to Contents](#contents)
+
+## Builder Platforms
+
+- https://www.microsoft.com/en/microsoft-copilot/microsoft-copilot-studio
+- https://ai.azure.com/doc/azure/ai-foundry/what-is-azure-ai-foundry
 
 ⬆️ [Back to Contents](#contents)
 
